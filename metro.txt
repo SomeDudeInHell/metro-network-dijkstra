@@ -1,0 +1,216 @@
+IndianRailways
+111
+Mumbai_CST
+Delhi_Junction
+Kolkata_Howrah
+Chennai_Central
+Bangalore_City
+Hyderabad_Secunderabad
+Ahmedabad_Junction
+Pune_Junction
+Lucknow_Charbagh
+Patna_Junction
+Bhopal_Junction
+Jaipur_Junction
+Chandigarh_Junction
+Guwahati_Junction
+Bhubaneswar_Junction
+Nagpur_Junction
+Varanasi_Junction
+Madurai_Junction
+Coimbatore_Junction
+Thiruvananthapuram_Central
+Visakhapatnam_Junction
+Vijayawada_Junction
+Mysore_Junction
+Jabalpur_Junction
+Kanpur_Central
+Indore_Junction
+Raipur_Junction
+Durg_Junction
+Gaya_Junction
+Tirupati_Junction
+Kozhikode_Junction
+Ernakulam_Junction
+Surat_Junction
+Vadodara_Junction
+Rajkot_Junction
+Gorakhpur_Junction
+Allahabad_Junction
+Ranchi_Junction
+Dhanbad_Junction
+Siliguri_Junction
+New_Jalpaiguri
+Tatanagar_Junction
+Mangalore_Junction
+Hubli_Junction
+Belgaum_Junction
+Bhavnagar_Junction
+Udaipur_City
+Ajmer_Junction
+Bikaner_Junction
+Jodhpur_Junction
+Meerut_City
+Agra_Cantt
+Mathura_Junction
+Aligarh_Junction
+Bareilly_Junction
+Moradabad_Junction
+Haridwar_Junction
+Dehradun_Junction
+Ambala_Cantonment
+Ludhiana_Junction
+Amritsar_Junction
+Jammu_Tawi
+Udhampur_Junction
+Katni_Junction
+Bilaspur_Junction
+Itarsi_Junction
+Khandwa_Junction
+Akola_Junction
+Chandrapur_Junction
+Wardha_Junction
+Dibrugarh_Junction
+Dimapur_Junction
+Darbhanga_Junction
+Muzaffarpur_Junction
+Bhagalpur_Junction
+Sambalpur_Junction
+Jharsuguda_Junction
+Balasore_Junction
+Cuttack_Junction
+Rourkela_Junction
+Anand_Junction
+Nanded_Junction
+Karimnagar_Junction
+Warangal_Junction
+Tirunelveli_Junction
+Kanyakumari_Junction
+Nagercoil_Junction
+Bhuj_Junction
+Jamnagar_Junction
+Dwarka_Junction
+Porbandar_Junction
+Shirdi_Junction
+Pandharpur_Junction
+Solapur_Junction
+Gulbarga_Junction
+Kurnool_Junction
+Guntur_Junction
+Tenali_Junction
+Hosur_Junction
+Salem_Junction
+Dindigul_Junction
+Erode_Junction
+Karur_Junction
+Thanjavur_Junction
+Mayiladuthurai_Junction
+Karaikal_Junction
+Cuddalore_Port
+Gwalior_Junction
+Asansol_Junction
+Manmad_Junction
+Nashik_Road
+Mumbai_CST Pune_Junction 150
+Mumbai_CST Ahmedabad_Junction 490
+Ahmedabad_Junction Jaipur_Junction 630
+Jaipur_Junction Delhi_Junction 300
+Delhi_Junction Chandigarh_Junction 260
+Delhi_Junction Lucknow_Charbagh 500
+Lucknow_Charbagh Patna_Junction 520
+Patna_Junction Kolkata_Howrah 560
+Kolkata_Howrah Bhubaneswar_Junction 440
+Bhubaneswar_Junction Visakhapatnam_Junction 445
+Visakhapatnam_Junction Vijayawada_Junction 350
+Vijayawada_Junction Chennai_Central 430
+Chennai_Central Bangalore_City 360
+Bangalore_City Mysore_Junction 140
+Bangalore_City Mangalore_Junction 350
+Mangalore_Junction Kozhikode_Junction 230
+Kozhikode_Junction Ernakulam_Junction 200
+Ernakulam_Junction Thiruvananthapuram_Central 220
+Thiruvananthapuram_Central Kanyakumari_Junction 90
+Kanyakumari_Junction Madurai_Junction 240
+Madurai_Junction Coimbatore_Junction 210
+Coimbatore_Junction Salem_Junction 160
+Salem_Junction Bangalore_City 200
+Bangalore_City Hubli_Junction 410
+Hubli_Junction Belgaum_Junction 110
+Belgaum_Junction Pune_Junction 330
+Pune_Junction Solapur_Junction 250
+Solapur_Junction Gulbarga_Junction 115
+Gulbarga_Junction Hyderabad_Secunderabad 180
+Hyderabad_Secunderabad Warangal_Junction 150
+Warangal_Junction Vijayawada_Junction 200
+Vijayawada_Junction Guntur_Junction 30
+Guntur_Junction Tirupati_Junction 260
+Tirupati_Junction Chennai_Central 150
+Chennai_Central Tirunelveli_Junction 600
+Tirunelveli_Junction Nagercoil_Junction 90
+Nagercoil_Junction Kanyakumari_Junction 15
+Kolkata_Howrah Dibrugarh_Junction 1350
+Dibrugarh_Junction Guwahati_Junction 450
+Guwahati_Junction Siliguri_Junction 460
+Siliguri_Junction New_Jalpaiguri 10
+New_Jalpaiguri Darbhanga_Junction 380
+Darbhanga_Junction Muzaffarpur_Junction 70
+Muzaffarpur_Junction Patna_Junction 90
+Patna_Junction Allahabad_Junction 330
+Allahabad_Junction Kanpur_Central 200
+Kanpur_Central Agra_Cantt 280
+Agra_Cantt Mathura_Junction 60
+Mathura_Junction Delhi_Junction 180
+Delhi_Junction Jammu_Tawi 580
+Jammu_Tawi Udhampur_Junction 55
+Jodhpur_Junction Bikaner_Junction 250
+Bikaner_Junction Udaipur_City 280
+Udaipur_City Ajmer_Junction 170
+Ajmer_Junction Jaipur_Junction 130
+Jaipur_Junction Agra_Cantt 240
+Agra_Cantt Gwalior_Junction 120
+Gwalior_Junction Bhopal_Junction 430
+Bhopal_Junction Nagpur_Junction 350
+Nagpur_Junction Chandrapur_Junction 160
+Chandrapur_Junction Hyderabad_Secunderabad 430
+Bilaspur_Junction Raipur_Junction 110
+Raipur_Junction Durg_Junction 40
+Durg_Junction Nagpur_Junction 280
+Ranchi_Junction Dhanbad_Junction 170
+Dhanbad_Junction Asansol_Junction 70
+Asansol_Junction Kolkata_Howrah 220
+Surat_Junction Vadodara_Junction 140
+Vadodara_Junction Rajkot_Junction 290
+Rajkot_Junction Bhavnagar_Junction 170
+Bhavnagar_Junction Bhuj_Junction 420
+Bhuj_Junction Jamnagar_Junction 260
+Jamnagar_Junction Dwarka_Junction 140
+Dwarka_Junction Porbandar_Junction 105
+Shirdi_Junction Manmad_Junction 60
+Manmad_Junction Nashik_Road 70
+Nashik_Road Mumbai_CST 160
+Allahabad_Junction Varanasi_Junction 120
+Bhopal_Junction Jabalpur_Junction 150
+Lucknow_Charbagh Gorakhpur_Junction 130
+Moradabad_Junction Kanpur_Central 110
+Dibrugarh_Junction Dimapur_Junction 150
+Anand_Junction Ahmedabad_Junction 80
+Karimnagar_Junction Hyderabad_Secunderabad 200
+Thanjavur_Junction Chennai_Central 250
+Mayiladuthurai_Junction Thanjavur_Junction 80
+Karaikal_Junction Mayiladuthurai_Junction 50
+Cuddalore_Port Chennai_Central 180
+Jharsuguda_Junction Sambalpur_Junction 90
+Balasore_Junction Cuttack_Junction 20
+Katni_Junction Jabalpur_Junction 140
+Akola_Junction Nagpur_Junction 180
+Wardha_Junction Nagpur_Junction 70
+Bhagalpur_Junction Patna_Junction 100
+Rourkela_Junction Cuttack_Junction 80
+Nanded_Junction Pune_Junction 160
+Pandharpur_Junction Pune_Junction 120
+Kurnool_Junction Guntur_Junction 100
+Tenali_Junction Guntur_Junction 40
+Hosur_Junction Bangalore_City 55
+Dindigul_Junction Madurai_Junction 80
+Erode_Junction Coimbatore_Junction 50
+Karur_Junction Coimbatore_Junction 60
