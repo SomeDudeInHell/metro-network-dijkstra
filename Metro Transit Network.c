@@ -295,5 +295,5 @@ int main(int argc, char *argv[]) {
     dijkstra(network, startStation, endStation);
 
     freeMetroNetwork(network);
-    return 0;
+    return 0;
 }
