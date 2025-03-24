@@ -203,6 +203,10 @@ MetroNetwork* readMetroNetworkFromFile(const char *filename) {
 
     // Read edges
     while (fgets(buffer, sizeof(buffer), file)) {
+    	// Skip empty lines
+    	if (buffer[0] == '\n' || buffer[0] == '\r') {
+        	continue;
+    	}
         char src[256], dest[256];
         int distance;
         if (sscanf(buffer, "%s %s %d", src, dest, &distance) != 3) {
